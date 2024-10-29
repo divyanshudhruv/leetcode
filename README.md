@@ -10,4 +10,4 @@ This repository contains my solutions to various problems on LeetCode, aimed at 
 - **Python**
 
 ## Total Problems Solved
-- Total: **0**
+- Total: **2**
